@@ -14,10 +14,10 @@ patches:
 images:
 - name: broadcaster
   newName: otsoh/broadcaster
-  newTag: e5050e551022204f5a5e77e1638a262198d83ba4
+  newTag: 1d2afaf6e1fdc22000953c74d728a1fee6789839
 - name: todo-app
   newName: otsoh/todo-app
-  newTag: e5050e551022204f5a5e77e1638a262198d83ba4
+  newTag: 1d2afaf6e1fdc22000953c74d728a1fee6789839
 - name: todo-backend
   newName: otsoh/todo-backend
-  newTag: e5050e551022204f5a5e77e1638a262198d83ba4
+  newTag: 1d2afaf6e1fdc22000953c74d728a1fee6789839
