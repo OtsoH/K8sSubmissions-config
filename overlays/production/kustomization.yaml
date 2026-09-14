@@ -11,10 +11,10 @@ resources:
 images:
 - name: broadcaster
   newName: otsoh/broadcaster
-  newTag: "4.9"
+  newTag: "4.10"
 - name: todo-app
   newName: otsoh/todo-app
-  newTag: "4.9"
+  newTag: "4.10"
 - name: todo-backend
   newName: otsoh/todo-backend
-  newTag: "4.9"
+  newTag: "4.10"
